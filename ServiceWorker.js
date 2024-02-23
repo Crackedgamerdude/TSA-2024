@@ -1,9 +1,9 @@
 const cacheName = "Abingdon Highschool-TSA Project 2023-1.0";
 const contentToCache = [
     "Build/2024 Video Game.loader.js",
-    "Build/2024 Video Game.framework.js.br",
-    "Build/2024 Video Game.data.br",
-    "Build/2024 Video Game.wasm.br",
+    "Build/2024 Video Game.framework.js",
+    "Build/2024 Video Game.data",
+    "Build/2024 Video Game.wasm",
     "TemplateData/style.css"
 
 ];
